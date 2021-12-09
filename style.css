@@ -13,9 +13,9 @@ header {
     width: 1350px;
     height: auto;
     font-size:xx-large;
-    text-align: right
-    
-    
+    text-align: right;
+    padding: 6px;
+
 }
 
 .signup-box {
