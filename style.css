@@ -3,7 +3,19 @@ body {
 }
 
 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align:left
+    
+}
+
+header {
+    background-color: white;
+    width: 1350px;
+    height: auto;
+    font-size:xx-large;
+    text-align: right
+    
+    
 }
 
 .signup-box {
@@ -13,6 +25,7 @@ h1 {
     background-color: white;
     border-radius: 3px;
 }
+
 form {
     width: 300px;
     margin-left: 20px;
@@ -27,7 +40,6 @@ form label {
 form input {
     width: 100%;
     padding: 7px;
-    border: none;
     border: 1px solid gray
     border-radius: 6px;
     outline: none;
@@ -39,5 +51,7 @@ input [type="button"]{
     margin-top: 20px;
     border: none;
 }
+
+footer {
 
 }
